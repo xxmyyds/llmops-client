@@ -1,0 +1,6 @@
+@import './base.css';
+@import 'tailwindcss';
+
+.scrollbar-w-none {
+  scrollbar-width: none;
+}
